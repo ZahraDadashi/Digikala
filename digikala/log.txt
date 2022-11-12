@@ -1,0 +1,2 @@
+Time ellapsed: 21801 milliseconds //using 1 thread
+Time ellapsed: 1 milliseconds //using 4 threads
